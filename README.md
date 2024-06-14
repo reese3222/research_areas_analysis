@@ -15,8 +15,8 @@ This repository includes several key files, each serving a specific purpose in t
 
 1. **0-csv-conversion.ipynb**: This notebook handles the conversion and filtering of data from JSON to CSV format, setting up the dataset for further analysis.
 2. **1-graph_building.ipynb**: This notebook contains the code for constructing the citation graph, calculating partitions using the Infomap algorithm, and determining HITS scores.
-3. **3-research_analysis.ipynb**: The core notebook of the project. It presents the results of the research area analysis, identifying trends and evolutions over time.
-4. **3-research_analysis.html**: Exported notebook without source code for easier reading.
+3. **2-research_analysis.ipynb**: The core notebook of the project. It presents the results of the research area analysis, identifying trends and evolutions over time.
+4. **2-research_analysis.html**: Exported notebook without source code for easier reading.
 5. **utils.py**: Supporting functions and prompts.
 
 ### Project Goals
