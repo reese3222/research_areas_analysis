@@ -16,7 +16,8 @@ This repository includes several key files, each serving a specific purpose in t
 1. **0-csv-conversion.ipynb**: This notebook handles the conversion and filtering of data from JSON to CSV format, setting up the dataset for further analysis.
 2. **1-graph_building.ipynb**: This notebook contains the code for constructing the citation graph, calculating partitions using the Infomap algorithm, and determining HITS scores.
 3. **3-research_analysis.ipynb**: The core notebook of the project. It presents the results of the research area analysis, identifying trends and evolutions over time.
-4. **utils.py**: Supporting functions and prompts.
+4. **3-research_analysis.html**: Exported notebook without source code for easier reading.
+5. **utils.py**: Supporting functions and prompts.
 
 ### Project Goals
 The primary objective of this project is to partition the citation graph into communities. These communities are interpreted as different research areas, which are then analyzed to identify trending topics and understand the evolution of research in the field of machine learning.
